@@ -1,0 +1,15 @@
+D:\POO\provocarea5\bin\Debug\net8.0\DosingLine.exe
+D:\POO\provocarea5\bin\Debug\net8.0\DosingLine.deps.json
+D:\POO\provocarea5\bin\Debug\net8.0\DosingLine.runtimeconfig.json
+D:\POO\provocarea5\bin\Debug\net8.0\DosingLine.dll
+D:\POO\provocarea5\bin\Debug\net8.0\DosingLine.pdb
+D:\POO\provocarea5\obj\Debug\net8.0\DosingLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\provocarea5\obj\Debug\net8.0\DosingLine.AssemblyInfoInputs.cache
+D:\POO\provocarea5\obj\Debug\net8.0\DosingLine.AssemblyInfo.cs
+D:\POO\provocarea5\obj\Debug\net8.0\DosingLine.csproj.CoreCompileInputs.cache
+D:\POO\provocarea5\obj\Debug\net8.0\DosingLine.sourcelink.json
+D:\POO\provocarea5\obj\Debug\net8.0\DosingLine.dll
+D:\POO\provocarea5\obj\Debug\net8.0\refint\DosingLine.dll
+D:\POO\provocarea5\obj\Debug\net8.0\DosingLine.pdb
+D:\POO\provocarea5\obj\Debug\net8.0\DosingLine.genruntimeconfig.cache
+D:\POO\provocarea5\obj\Debug\net8.0\ref\DosingLine.dll
